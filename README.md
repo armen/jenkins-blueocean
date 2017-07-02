@@ -5,7 +5,7 @@ in OpenShift.
 
 Create a Jenkins S2I build with this GitHub repository:
 ```
-oc new-build jenkins:2~https://github.com/siamaksade/jenkins-blueocean.git --name=jenkins-blueocean
+oc new-build jenkins:2~https://github.com/armen/jenkins-blueocean.git --name=jenkins-blueocean
 ```
 
 Then you can deploy the Jenkins templates with the customized image. Replace BLUEOCEAN_IMAGE_NAMESPACE 
