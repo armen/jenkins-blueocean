@@ -1,3 +1,5 @@
+ssh-slaves:latest
+async-http-client:latest
 ace-editor:latest
 analysis-core:latest
 antisamy-markup-formatter:latest
