@@ -7,6 +7,9 @@ authentication-tokens:latest
 bitbucket-build-status-notifier:latest
 bitbucket:latest
 bitbucket-pullrequest-builder:latest
+github:latest
+github-api:latest
+github-branch-source:latest
 blueocean-autofavorite:latest
 blueocean-bitbucket-pipeline:latest
 blueocean-commons:latest
@@ -46,8 +49,6 @@ dry:latest
 durable-task:latest
 favorite:latest
 git-client:latest
-github-branch-source:latest
-github:latest
 git:latest
 git-server:latest
 handlebars:latest
