@@ -46,6 +46,7 @@ durable-task:latest
 favorite:latest
 git-client:latest
 git:latest
+blueocean-github-pipeline:latest
 git-server:latest
 handlebars:latest
 hipchat:latest
@@ -83,8 +84,8 @@ pipeline-milestone-step:latest
 pipeline-model-api:latest
 pipeline-model-declarative-agent:latest
 pipeline-model-definition:latest
-pipeline-model-extensions:latest
 pipeline-rest-api:latest
+pipeline-model-extensions:latest
 pipeline-stage-step:latest
 pipeline-stage-tags-metadata:latest
 pipeline-stage-view:latest
@@ -105,12 +106,16 @@ structs:latest
 subversion:latest
 support-core:latest
 token-macro:latest
+github:latest
+github-branch-source:latest
 variant:latest
 violations:latest
 vsphere-cloud:latest
 warnings:latest
 workflow-aggregator:latest
 xunit:latest
+workflow-job:latest
+bouncycastle-api:latest
 workflow-api:latest
 workflow-basic-steps:latest
 workflow-cps-global-lib:latest
