@@ -15,7 +15,6 @@ blueocean-config:latest
 blueocean-dashboard:latest
 blueocean-display-url:latest
 blueocean-events:latest
-blueocean-github-pipeline:latest
 blueocean-git-pipeline:latest
 blueocean-i18n:latest
 blueocean-jira:latest
@@ -46,10 +45,6 @@ dry:latest
 durable-task:latest
 favorite:latest
 git-client:latest
-github-api:latest
-github-branch-source:latest
-github:latest
-github-organization-folder:latest
 git:latest
 git-server:latest
 handlebars:latest
@@ -82,7 +77,6 @@ p4:latest
 parameterized-trigger:latest
 perforce:latest
 pipeline-build-step:latest
-pipeline-github-lib:latest
 pipeline-graph-analysis:latest
 pipeline-input-step:latest
 pipeline-milestone-step:latest
