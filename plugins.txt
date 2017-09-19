@@ -17,7 +17,6 @@ blueocean-config:latest
 blueocean-dashboard:latest
 blueocean-display-url:latest
 blueocean-events:latest
-blueocean-github-pipeline:latest
 blueocean-git-pipeline:latest
 blueocean-i18n:latest
 blueocean-jira:latest
@@ -27,8 +26,6 @@ blueocean-personalization:latest
 blueocean-pipeline-api-impl:latest
 blueocean-pipeline-editor:latest
 blueocean-pipeline-scm-api:latest
-blueocean-rest-impl:latest
-blueocean-rest:latest
 blueocean-web:latest
 bouncycastle-api:latest
 branch-api:latest
@@ -127,3 +124,6 @@ workflow-scm-step:latest
 workflow-step-api:latest
 workflow-support:latest
 xunit:latest
+blueocean-github-pipeline:latest
+blueocean-rest-impl:latest
+blueocean-rest:latest
