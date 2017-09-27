@@ -6,3 +6,9 @@ config-file-provider:2.16.4
 parameterized-trigger:2.35.2
 docker-commons:1.8
 job-dsl:1.65
+pipeline:2.5
+openshift-client:1.0.0
+openshift-pipeline:1.0.52
+openshift-sync:0.1.30
+pipeline-model-extensions:1.1.9
+workflow-job:2.11.2
