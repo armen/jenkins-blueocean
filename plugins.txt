@@ -1,3 +1,4 @@
+blueocean:1.2.1
 ace-editor:latest
 analysis-core:latest
 antisamy-markup-formatter:latest
@@ -21,7 +22,6 @@ blueocean-git-pipeline:latest
 blueocean-i18n:latest
 blueocean-jira:latest
 blueocean-jwt:latest
-blueocean:latest
 blueocean-personalization:latest
 blueocean-pipeline-api-impl:latest
 blueocean-pipeline-editor:latest
