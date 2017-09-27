@@ -11,4 +11,16 @@ openshift-client:1.0.0
 openshift-pipeline:1.0.52
 openshift-sync:0.1.30
 pipeline-model-extensions:1.1.9
-workflow-job:2.11.2
+workflow-job:2.12.2
+pipeline-model-definition:1.2
+workflow-cps:2.39
+workflow-cps-global-lib:2.9
+workflow-support:2.14
+workflow-step-api:2.13
+workflow-scm-step:2.6
+workflow-basic-steps:2.6
+workflow-api:2.20
+pipeline-utility-steps:1.4.1
+workflow-durable-task-step:2.13
+docker-workflow:1.13
+scm-api:2.2.2
