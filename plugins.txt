@@ -4,3 +4,5 @@ workflow-aggregator:2.4
 subversion:2.9
 config-file-provider:2.16.4
 parameterized-trigger:2.35.2
+docker-commons:1.8
+job-dsl:1.65
