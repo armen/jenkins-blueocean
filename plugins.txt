@@ -1,4 +1,4 @@
-blueocean:1.2.1
+blueocean:1.2.4
 hipchat:latest
 workflow-aggregator:2.4
 subversion:2.9
