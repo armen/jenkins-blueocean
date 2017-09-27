@@ -117,7 +117,7 @@ workflow-basic-steps:latest
 workflow-cps-global-lib:latest
 workflow-cps:latest
 workflow-durable-task-step:latest
-workflow-job:2.12.2
+workflow-job:latest
 workflow-multibranch:latest
 workflow-remote-loader:latest
 workflow-scm-step:latest
