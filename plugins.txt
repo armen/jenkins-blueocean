@@ -1,3 +1,6 @@
 blueocean:1.2.1
 hipchat:latest
 workflow-aggregator:2.4
+subversion:2.9
+config-file-provider:2.16.4
+parameterized-trigger:2.35.2

@@ -1,4 +1,4 @@
-FROM openshift/jenkins-2-centos7:latest
+FROM openshift/jenkins-2-centos7:3.6.0
 
 USER root
 RUN yum -y install \
